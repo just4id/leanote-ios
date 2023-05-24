@@ -18,6 +18,11 @@ Run `pod install` from the command line to install dependencies for the project.
 
 Launch the workspace by either double clicking on Leanote.xcworkspace file, or launch Xcode and choose File > Open and browse to Leanote.xcworkspace.
 
+### 1.3. Change On Xcode(14.3 14E222b)
+
+Minimum Deployments: iOS -> 12.4
+Architectures: Build Archive Architecture Only -> Yes
+
 ## 2. Support & Join us
 
 * Email: leanote@leanote.com
@@ -44,7 +49,7 @@ Launch the workspace by either double clicking on Leanote.xcworkspace file, or l
 ```
 LEANOTE - NOT JUST A NOTEPAD!
 
-Copyright 2015 by the contributors.
+Copyright 2015-2023 by the contributors.
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
