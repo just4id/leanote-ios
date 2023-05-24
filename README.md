@@ -1,8 +1,8 @@
 # Leanote IOS
-
+Retired from 
 <a href="https://itunes.apple.com/cn/app/leanote/id1022302858?mt=8" title="Download From App Store" class="ios-download">
     <img style="width: 200px;" src="./preview/apple-store-logo.png" alt="Download From App Store">
-</a>
+</a> already!
 
 ## 1. Building
 
@@ -20,8 +20,8 @@ Launch the workspace by either double clicking on Leanote.xcworkspace file, or l
 
 ### 1.3. Change On Xcode(14.3 14E222b)
 
-Minimum Deployments: iOS -> 12.4
-Architectures: Build Archive Architecture Only -> Yes
+* Minimum Deployments: iOS -> 12.4
+* Architectures: Build Archive Architecture Only -> Yes
 
 ## 2. Support & Join us
 
