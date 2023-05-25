@@ -32,6 +32,7 @@ Launch the workspace by either double clicking on Leanote.xcworkspace file, or l
 
 ## 3. Preview
 
+![](./preview/66595B16-82F6-42A6-A48D-59D423AE6525.png)
 ![](./preview/leanote-sb-16.4.png)
 ![](./preview/leanote-login.png)
 ![](./preview/leanote-preview-list.png)
