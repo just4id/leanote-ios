@@ -2,7 +2,7 @@
 Retired and NOT
 <a href="https://itunes.apple.com/cn/app/leanote/id1022302858?mt=8" title="Download From App Store" class="ios-download">
     <img style="width: 200px;" src="./preview/apple-store-logo.png" alt="Download From App Store">
-</a> already! You need build this app by yourself.
+</a> any more! You need build this app by yourself.
 
 ## 1. Building
 
